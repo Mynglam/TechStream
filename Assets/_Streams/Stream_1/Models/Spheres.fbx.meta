@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 guid: d4f1034423e4aa24dbdaf331831192f0
+labels:
+- 1
+- Models
+- Spheres
+- Stream
+- Streams
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

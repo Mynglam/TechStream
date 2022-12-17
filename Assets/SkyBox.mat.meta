@@ -1,5 +1,8 @@
 fileFormatVersion: 2
 guid: cc8ff4f2ed0aad541a6e9c70a4095342
+labels:
+- Box
+- Sky
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

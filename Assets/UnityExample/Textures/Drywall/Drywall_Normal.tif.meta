@@ -1,7 +1,11 @@
 fileFormatVersion: 2
 guid: e231e4c02c48ee14aafa55f7b1a843c1
 labels:
-- Wall
+- Drywall
+- Example
+- Normal
+- Textures
+- Unity
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

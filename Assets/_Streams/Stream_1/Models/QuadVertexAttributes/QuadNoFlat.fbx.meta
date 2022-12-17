@@ -1,5 +1,15 @@
 fileFormatVersion: 2
 guid: 2794d5fffbf3d534585b54f9d26b741d
+labels:
+- 1
+- Attributes
+- Flat
+- Models
+- No
+- Quad
+- Stream
+- Streams
+- Vertex
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

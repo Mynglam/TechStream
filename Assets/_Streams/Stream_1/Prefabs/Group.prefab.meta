@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 guid: b0cbc8d0c68499e48ad7f728489f2f89
+labels:
+- 1
+- Group
+- Prefabs
+- Stream
+- Streams
 PrefabImporter:
   externalObjects: {}
   userData: 

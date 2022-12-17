@@ -1,5 +1,15 @@
 fileFormatVersion: 2
 guid: a56fecdc9fd7eee49843877c42c3e19e
+labels:
+- 0
+- 2
+- Bake
+- Probe
+- Reflection
+- Scenes
+- Stream
+- Streams
+- Test
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

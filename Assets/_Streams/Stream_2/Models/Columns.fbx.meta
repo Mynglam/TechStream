@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 guid: 6bfd0872e838c1a41a73743dc25888c2
+labels:
+- 2
+- Columns
+- Models
+- Stream
+- Streams
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

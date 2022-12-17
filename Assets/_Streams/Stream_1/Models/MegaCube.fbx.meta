@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 919064c15f291034fbbfb35d0d969edb
+labels:
+- 1
+- Cube
+- Mega
+- Models
+- Stream
+- Streams
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

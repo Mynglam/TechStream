@@ -1,5 +1,13 @@
 fileFormatVersion: 2
 guid: 388618eadbd701c4295461d6aadefdf2
+labels:
+- 2
+- Caster
+- Models
+- Shadow
+- Stream
+- Streams
+- Tube
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []

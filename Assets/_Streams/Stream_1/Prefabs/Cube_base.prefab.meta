@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 059558176062e6e49aa51def2b67bca5
+labels:
+- 1
+- Cube
+- Prefabs
+- Stream
+- Streams
+- base
 PrefabImporter:
   externalObjects: {}
   userData: 
