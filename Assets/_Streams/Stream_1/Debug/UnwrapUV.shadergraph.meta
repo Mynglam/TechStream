@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 6c1bd34a4d6c8984bad24368d20bcb02
+labels:
+- 1
+- Debug
+- Stream
+- Streams
+- UV
+- Unwrap
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
