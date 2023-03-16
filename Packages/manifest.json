@@ -2,7 +2,8 @@
   "dependencies": {
     "com.extreme-developers.analysis-tools": "1.2.1",
     "com.extreme-developers.base-features": "1.1.0",
-    "com.extreme-developers.editor-extensions": "1.1.0",
+    "com.extreme-developers.editor-extensions": "1.0.1",
+    "com.extreme-developers.mesh-debugger": "0.1.5",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.feature.development": "1.0.1",

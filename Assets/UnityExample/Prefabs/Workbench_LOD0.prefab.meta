@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: c0adcaeba3022437293536832628fdf8
+labels:
+- 0
+- Example
+- LOD
+- Prefabs
+- Unity
+- Workbench
 PrefabImporter:
   externalObjects: {}
   userData: 

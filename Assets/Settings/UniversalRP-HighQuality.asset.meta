@@ -1,5 +1,11 @@
 fileFormatVersion: 2
 guid: 19ba41d7c0026c3459d37c2fe90c55a0
+labels:
+- High
+- Quality
+- RP
+- Settings
+- Universal
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 0
